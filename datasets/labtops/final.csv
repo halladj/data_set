@@ -4,7 +4,7 @@ HDD,RAM,RAM_frequincy,RAM_type,SSD,anti_reflow,brand,cpu_brand,cpu_family,cpu_fr
 1000,8,3200,ddr4,256,0,asus,intel,h,2.6,i7,9750,nvidia,0,1650,4,geforce gtx,228900,60,fhd,15.6,new,0
 0,16,3200,ddr4,1000,1,asus,amd,h,3.2,ryzen7,5800,nvidia,1510,3070,8,geforce rtx,349000,144,fhd,15.6,new,0
 1000,8,2666,ddr4,256,0,asus,intel,h,2.6,i7,9750,nvidia,0,1050,4,geforce gtx ,180000,60,fhd,15.6,new,0
-1000,4,3.4,ddr4,0,0,asus,intel,g1,1.2,i3,1005,0,0,0,0,0,94900,60,fhd,15.6,new,0
+1000,4,1600,ddr4,0,0,asus,intel,g1,1.2,i3,1005,0,0,0,0,0,94900,60,fhd,15.6,new,0
 1000,4,0,ddr4,0,0,asus,intel,n,1.1,celeron,4020,0,0,0,0,0,72000,60,hd,15.6,new,0
 0,8,2400,ddr4,512,0,asus,intel,u,1.6,i5,8265,0,0,0,0,0,89000,60,hd,17.3,new,0
 0,8,0,ddr4,512,0,asus,intel,u,1.8,i7,10510,nvidia,0,250,2,geforce mx,259900,60,fhd,11,new,0
