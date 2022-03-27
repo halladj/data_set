@@ -160,7 +160,7 @@ HDD,RAM,RAM_frequincy,RAM_type,SSD,anti_glare,brand,cpu_brand,cpu_family,cpu_fre
 1000,16,2400,ddr4,128,0,asus,intel,hq,2.8,i7,7700,nvidia,0,1050,2,geforce gtx,160000,60,fhd,17.3,used,0
 0,16,2400,ddr4,512,1,msi,intel,h,2.4,i5,9300,nvidia,0,1650,4,geforce gtx,176000,120,fhd,17.3,used,0
 500,16,0,ddr4,128,1,lenovo,intel,hq,2.5,i5,7300,nvidia,0,1060,6,geforce gtx,148000,60,fhd,15.6,used,0
-1000,8,2400,ddr4,0,0,hp,intel,u,1.8,i7,8565,nvidia,0,mx130,2,geforce ,125000,60,fhd,15.6,used,0
+1000,8,2400,ddr4,0,0,hp,intel,u,1.8,i7,8565,nvidia,0,mx130,2,geforce,125000,60,fhd,15.6,used,0
 0,16,0,ddr4,256,0,hp,amd,u,4.2,ryzen5,5600,0,0,0,0,0,155000,60,fhd,13.3,new,0
 1000,4,0,ddr4,0,0,hp,intel,g1,1,i5,1035,nvidia,0,330,2,geforce mx,138000,60,fhd,15.6,new,0
 1000,32,0,ddr4,512,1,hp,intel,h,5.3,i9,10885,nvidia,0,2080,8,geforce rtx,692000,144,fhd,15.6,new,0
