@@ -1,4 +1,4 @@
-HDD,RAM,RAM_frequincy,RAM_type,SSD,anti_glare,brand,cpu_brand,cpu_family,cpu_frequincy,cpu_modifier,cpu_number_identifier,gpu_brand,gpu_frequincy,gpu_number_modifier,gpu_vram,gpu_words_modifier,prix,screen_refresh_rate,screen_resolution,screen_size,state,touch_screen
+hdd,ram,ram_frequency,ram_type,ssd,anti_glare,brand,cpu_brand,cpu_family,cpu_frequency,cpu_modifier,cpu_number_identifier,gpu_brand,gpu_frequency,gpu_number_identifier,gpu_vram,gpu_words_identifier,price,screen_refresh_rate,screen_resolution,screen_size,state,touch_screen
 0,16,3198,ddr4,512,0,asus,intel,h,3.3,i7,11370,nvidia,0,3050 ti,4,geforce rtx,296000,144,fhd,15.6,new,0
 0,4,0,sdram,128,0,asus,intel,n,1.1,celeron,4020,0,0,0,0,0,72900,60,hd,15.6,new,0
 1000,8,3200,ddr4,256,0,asus,intel,h,2.6,i7,9750,nvidia,0,1650,4,geforce gtx,228900,60,fhd,15.6,new,0
