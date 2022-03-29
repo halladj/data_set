@@ -205,7 +205,7 @@ Back-light,anti_glare,brand,cpu_brand,cpu_family,cpu_frequency,cpu_modifier,cpu_
 ,1,acer,intel,h,2.5,i5,10300,nvidia,3060,6,geforce rtx,1000,255000,16,2933,ddr4,144,fhd,15.6,512,used,0
 ,1,msi,intel,h,2.6,i7,9750,nvidia,2060,6,geforce rtx,0,258000,24,2666,ddr4,120,fhd,15.6,1500,used,0
 ,1,dell,intel,h,2.2,i7,8750,nvidia,2080,8,geforce rtx,0,289000,16,2666,ddr4,60,4k,15.6,512,used,0
-,1,msi,intel,h,2.3,i5,8300,nvidia,1050ti,4,geforce gtx,1000,160000,16,2400,ddr4,60,fhd,15.6,128,used,0
+,1,msi,intel,h,2.3,i5,8300,nvidia,1050 ti,4,geforce gtx,1000,160000,16,2400,ddr4,60,fhd,15.6,128,used,0
 ,1,asus,intel,hq,2.8,i7,7700,nvidia,1050,2,geforce gtx,1000,160000,16,2400,ddr4,60,fhd,17.3,128,used,0
 ,1,msi,intel,h,2.4,i5,9300,nvidia,1650,4,geforce gtx,0,176000,16,2400,ddr4,120,fhd,17.3,512,used,0
 ,1,hp,intel,h,2.3,i5,8300,nvidia,1050,4,geforce gtx,1000,153000,16,0,ddr4,60,fhd,17.3,256,used,0
@@ -229,7 +229,7 @@ Back-light,anti_glare,brand,cpu_brand,cpu_family,cpu_frequency,cpu_modifier,cpu_
 ,0,asus,intel,hq,2.8,i7,7700,nvidia,1050,2,geforce gtx,1000,160000,16,2400,ddr4,60,fhd,17.3,128,used,0
 ,1,msi,intel,h,2.4,i5,9300,nvidia,1650,4,geforce gtx,0,176000,16,2400,ddr4,120,fhd,17.3,512,used,0
 ,1,lenovo,intel,hq,2.5,i5,7300,nvidia,1060,6,geforce gtx,500,148000,16,0,ddr4,60,fhd,15.6,128,used,0
-,0,hp,intel,u,1.8,i7,8565,nvidia,mx130,2,geforce ,1000,125000,8,2400,ddr4,60,fhd,15.6,0,used,0
+,0,hp,intel,u,1.8,i7,8565,nvidia,mx130,2,geforce,1000,125000,8,2400,ddr4,60,fhd,15.6,0,used,0
 ,0,hp,amd,u,4.2,ryzen5,5600,0,0,0,0,0,155000,16,0,ddr4,60,fhd,13.3,256,new,0
 ,0,hp,intel,g1,1,i5,1035,nvidia,330,2,geforce mx,1000,138000,4,0,ddr4,60,fhd,15.6,0,new,0
 ,1,hp,intel,h,5.3,i9,10885,nvidia,2080,8,geforce rtx,1000,692000,32,0,ddr4,144,fhd,15.6,512,new,0
