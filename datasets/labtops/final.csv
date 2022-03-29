@@ -1,4 +1,4 @@
-anti_reflow,brand,cpu_brand,cpu_family,cpu_frequincy,cpu_modifier,cpu_numberThingy,gpu_brand,gpu_frequincy,gpu_numberThingy,gpu_vram,gpu_wordsthingy,hdd,prix,ram,ram_frequincy,ram_type,screenRefreshRate,screenResolution,screenSize,ssd,state,touch_screen
+anti_glare,brand,cpu_brand,cpu_family,cpu_frequincy,cpu_modifier,cpu_numberThingy,gpu_brand,gpu_frequincy,gpu_numberThingy,gpu_vram,gpu_wordsthingy,hdd,prix,ram,ram_frequincy,ram_type,screenRefreshRate,screenResolution,screenSize,ssd,state,touch_screen
 0,asus,intel,h,3.3,i7,11370,nvidia,0,3050 ti,4,geforce rtx,0,296000,16,3198,ddr4,144,fhd,15.6,512,new,0
 0,asus,intel,n,1.1,celeron,4020,0,0,0,0,0,0,72900,4,0,sdram,60,hd,15.6,128,new,0
 0,asus,intel,h,2.6,i7,9750,nvidia,0,1650,4,geforce gtx,1000,228900,8,3200,ddr4,60,fhd,15.6,256,new,0
