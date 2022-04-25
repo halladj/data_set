@@ -112,7 +112,7 @@ Back-light,anti_glare,brand,cpu_brand,cpu_family,cpu_frequency,cpu_modifier,cpu_
 0,1,dell,intel,hk,2.4,i9,9980,nvidia,0,1650,4,geforce gtx,0,265000,32,0,ddr4,60,4k,15.6,512,used,1
 0,1,hp,intel,h,2.4,i9,10885,nvidia,0,2060,6,rtx,0,198000,32,2933,ddr4,60,4k,15.6,2000,used,1
 0,1,hp,intel,h,2.4,i5,9300,nvidia,0,1650,4,gtx,0,158000,16,0,ddr4,60,fhd,15.6,512,used,0
-0,1,dell,amd,h,3,ryzen5,4600,amd,0,5600m,6,rx,0,169000,16,0,ddr4,60,fhd,15.6,512,used,0
+0,1,dell,amd,h,3,ryzen5,4600,amd,0,5600m,6,radeon rx,0,169000,16,0,ddr4,60,fhd,15.6,512,used,0
 0,0,hp,intel,h,0,i7,9850,nvidia,0,t1000,4,quadro,0,198000,32,0,ddr4,60,fhd,15.6,512,used,0
 0,0,dell,intel,h,2.59,i7,9850,nvidia,0,p620,4,quadro,0,179000,16,0,ddr4,60,fhd,15.6,512,used,0
 0,0,hp,intel,u,2,i7,8550,nvidia,0,940mx,4,gt,0,113000,8,0,ddr4,60,fhd,14,256,used,1
