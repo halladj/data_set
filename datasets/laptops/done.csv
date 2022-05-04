@@ -401,41 +401,41 @@ Back-light,anti_glare,brand,cpu_brand,cpu_family,cpu_frequency,cpu_modifier,cpu_
 ,1,dell,intel,hq,2.8,i5,7440,0,0,0,0,0,0,76000,8,2400,ddr4,60,fhd,14,256,used,0
 ,1,asus,intel,h,2.5,i5,10300,nvidia,0,1650,4,geforce gtx,0,185000,8,2933,ddr4,144,fhd,15.6,512,new,0
 ,1,acer,intel,h,2.5,i5,10300,nvidia,0,1650 ti,4,geforce gtx,0,190000,8,0,ddr4,144,fhd,15.6,512,new,0
-,0,apple,intel,u,3,i5,7267,none,0,none,0,none,0,119000,8,0,ddr4,60,QHD,13,256,used,0
-,0,lenovo,intel,u,2.2,i3,8130,none,0,none,0,none,0,68998,8,0,ddr4,60,HD,12,256,used,0
-,0,asus,intel,g1,1,i5,1035,none,0,none,0,none,1000,139000,8,0,ddr4,60,FHD,15,0,used,0
+,0,apple,intel,u,3,i5,7267,0,0,none,0,none,0,119000,8,0,ddr4,60,QHD,13,256,used,0
+,0,lenovo,intel,u,2.2,i3,8130,0,0,none,0,none,0,68998,8,0,ddr4,60,HD,12,256,used,0
+,0,asus,intel,g1,1,i5,1035,0,0,none,0,none,1000,139000,8,0,ddr4,60,FHD,15,0,used,0
 ,0,msi,intel,h,2.3,i5,8300,nvidia,0,1050 ti,4,geforce gtx,1000,135000,8,2667,ddr4,60,fhd,15.6,128,used,0
 ,1,dell,amd,h,3.3,ryzen7,5800,nvidia,0,3060,6,geforce rtx,0,275000,16,0,ddr4,144,fhd,15,512,used,0
-,0,hp,intel,g4,3,i3,1115,none,0,none,0,none,0,99500,8,2666,ddr4,60,HD,15.6,256,used,0
-,0,dell,intel,u,1.6,i5,10210,none,0,none,0,none,0,98000,8,0,ddr4,60,HD,15,256,used,0
-,1,dell,intel,u,1.6,i5,8365,none,0,none,0,none,0,129000,16,0,ddr4,60,fhd,14,512,used,1
-,0,lenovo,intel,N,1.1,celeron,4020,none,0,none,0,none,1000,66000,4,0,ddr4,60,HD,15.6,0,used,0
+,0,hp,intel,g4,3,i3,1115,0,0,none,0,none,0,99500,8,2666,ddr4,60,HD,15.6,256,used,0
+,0,dell,intel,u,1.6,i5,10210,0,0,none,0,none,0,98000,8,0,ddr4,60,HD,15,256,used,0
+,1,dell,intel,u,1.6,i5,8365,0,0,none,0,none,0,129000,16,0,ddr4,60,fhd,14,512,used,1
+,0,lenovo,intel,N,1.1,celeron,4020,0,0,none,0,none,1000,66000,4,0,ddr4,60,HD,15.6,0,used,0
 ,0,lenovo,intel,h,2.6,i7,9750,nvidia,0,1660 ti,6,geforce gtx,2000,260000,16,2666,ddr4,144,fhd,15.6,256,used,0
-,0,lenovo,intel,u,1.7,i5,8350,none,0,none,0,none,0,85000,8,0,ddr4,60,fhd,13.3,256,used,0
-,0,apple,intel,u,1.4,i5,8257,none,0,none,0,none,0,140000,8,0,ddr4,60,fhd,13.3,128,used,0
+,0,lenovo,intel,u,1.7,i5,8350,0,0,none,0,none,0,85000,8,0,ddr4,60,fhd,13.3,256,used,0
+,0,apple,intel,u,1.4,i5,8257,0,0,none,0,none,0,140000,8,0,ddr4,60,fhd,13.3,128,used,0
 ,0,dell,intel,h,2.6,i7,10749,nvidia,0,1650,4,geforce gtx,0,238000,16,3200,ddr4,60,fhd,15,1000,used,0
 ,0,asus,intel,u,1.8,i7,8550,nvidia,0,150,2,geforce mx,0,185000,8,0,ddr3,60,fhd,13.3,256,used,0
-,0,asus,amd,u,2.4,Athlon Gold,3150,none,0,none,0,none,1000,85900,4,0,ddr4,60,fhd,14,0,used,0
-,0,lenovo,intel,n,1.1,celeron,3350,none,0,none,0,none,0,35000,4,0,ddr4,60,hd,11.6,128,used,0
-,0,asus,intel,g7,2.8,i7,1165,none,0,none,0,none,0,299900,16,0,ddr4,60,fhd,13.3,512,used,0
-,0,hp,intel,u,2.5,i5,6300,none,0,none,0,none,0,85000,8,2133,ddr4,60,fhd,14,256,used,0
-,0,HUAWEI,intel,g7,2.4,i5,1135,none,0,none,0,none,0,138000,16,3200,ddr4x,60,fhd,15.6,512,used,0
-,0,hp,intel,g,3,i3,1115,none,0,none,0,none,0,105000,8,3200,ddr4x,60,hd,15.6,256,used,0
+,0,asus,amd,u,2.4,Athlon Gold,3150,0,0,none,0,none,1000,85900,4,0,ddr4,60,fhd,14,0,used,0
+,0,lenovo,intel,n,1.1,celeron,3350,0,0,none,0,none,0,35000,4,0,ddr4,60,hd,11.6,128,used,0
+,0,asus,intel,g7,2.8,i7,1165,0,0,none,0,none,0,299900,16,0,ddr4,60,fhd,13.3,512,used,0
+,0,hp,intel,u,2.5,i5,6300,0,0,none,0,none,0,85000,8,2133,ddr4,60,fhd,14,256,used,0
+,0,huawei,intel,g7,2.4,i5,1135,0,0,none,0,none,0,138000,16,3200,ddr4x,60,fhd,15.6,512,used,0
+,0,hp,intel,g,3,i3,1115,0,0,none,0,none,0,105000,8,3200,ddr4x,60,hd,15.6,256,used,0
 ,1,msi,intel,h,2.4,i5,10200,nvidia,0,3060,6,geforce rtx,0,18000,16,2933,ddr4x,144,fhd,15.6,512,used,0
 ,1,msi,intel,h,2.7,i7,12700,nvidia,0,3070 ti,8,geforce rtx,0,428000,16,4800,ddr5,60,fhd,15.6,512,new,0
-,1,lenovo,intel,u,1.9,i5,8365,none,0,none,0,none,0,98000,8,2400,ddr4,60,fhd,14,256,used,0
-,1,lenovo,intel,u,2,i7,8565,none,0,none,0,none,0,112000,8,2400,ddr4,60,fhd,14,256,used,0
+,1,lenovo,intel,u,1.9,i5,8365,0,0,none,0,none,0,98000,8,2400,ddr4,60,fhd,14,256,used,0
+,1,lenovo,intel,u,2,i7,8565,0,0,none,0,none,0,112000,8,2400,ddr4,60,fhd,14,256,used,0
 ,1,microsoft,intel,u,2.1,i7,8650,nvidia,0,1050,2,geforce gtx,0,138000,8,2133,ddr4,60,4k,13.5,256,used,1
 ,1,dell,intel,hq,2.8,i7,7700,nvidia,0,1050,4,geforce gtx,0,148000,16,2400,ddr4,60,4k,15.6,512,used,1
 ,1,lenovo,intel,h,2.6,i7,9750,nvidia,0,t1000,4,quadro,0,218000,32,2667,ddr4,60,fhd,15.6,512,used,0
-,1,hp,intel,u,2.1,i3,10110,none,0,none,0,none,0,105000,8,2667,ddr4,60,fhd,15.6,256,new,0
-,1,dell,intel,g7,3,i7,1185,none,0,none,0,none,0,78000,16,2400,ddr4x,60,fhd,15.6,512,used,0
-,1,lenovo,intel,u,1.9,i5,8265,none,0,none,0,none,0,94000,8,2400,ddr4,60,fhd,15.6,256,used,0
+,1,hp,intel,u,2.1,i3,10110,0,0,none,0,none,0,105000,8,2667,ddr4,60,fhd,15.6,256,new,0
+,1,dell,intel,g7,3,i7,1185,0,0,none,0,none,0,78000,16,2400,ddr4x,60,fhd,15.6,512,used,0
+,1,lenovo,intel,u,1.9,i5,8265,0,0,none,0,none,0,94000,8,2400,ddr4,60,fhd,15.6,256,used,0
 ,1,msi,intel,h,2.3,i7,11800,nvidia,0,3050 ti,4,geforce rtx,0,48000,16,3200,ddr4x,144,fhd,15.6,512,used,0
 ,1,msi,intel,h,2.7,i5,11400,nvidia,0,3050,4,geforce rtx,0,218000,8,3200,ddr4x,60,fhd,15.6,512,used,0
 ,1,hp,intel,h,2.7,i5,11400,nvidia,0,3050,4,geforce rtx,0,215000,8,3200,ddr4x,60,fhd,16,256,new,0
 ,1,asus,intel,h,2.6,i5,11260,nvidia,0,3050,4,geforce rtx,0,218000,8,3200,ddr4x,60,fhd,17.3,512,new,0
-,1,hp,intel,g4,3,i3,1115,none,0,none,0,none,0,98000,8,3200,ddr4x,60,hd,15.6,256,new,0
+,1,hp,intel,g4,3,i3,1115,0,0,none,0,none,0,98000,8,3200,ddr4x,60,hd,15.6,256,new,0
 ,1,asus,amd,h,3.2,ryzen7,5800,nvidia,0,3060,6,geforce rtx,0,285000,16,3200,ddr4x,144,fhd,15.6,512,used,0
 ,1,dell,amd,h,3.3,ryzen7,5800,nvidia,0,3070,8,geforce rtx,0,410000,16,3200,ddr4x,165,fhd,15.6,512,new,0
 ,1,dell,intel,h,2.6,i5,11260,nvidia,0,3050,4,geforce rtx,0,228000,16,3200,ddr4x,120,fhd,15.6,512,new,1
@@ -443,61 +443,61 @@ Back-light,anti_glare,brand,cpu_brand,cpu_family,cpu_frequency,cpu_modifier,cpu_
 ,1,dell,intel,h,2.3,i9,9880,nvidia,0,t2000,4,quadro,0,298000,16,2667,ddr4,60,fhd,15.6,256,used,0
 ,1,lenovo,intel,h,2.3,i7,11800,nvidia,0,3050,4,geforce rtx,0,308000,16,3200,ddr4x,165,qhd,16,1000,new,0
 ,1,hp,intel,u,2.3,i7,10510,nvidia,0,p520,4,quadro,0,228000,16,2667,ddr4,60,fhd,15.6,512,used,0
-,0,hp,intel,u,1.9,i5,8365,none,0,none,0,none,0,105000,16,2667,ddr4,60,fhd,15.6,256,new,0
-,0,asus,intel,g7,2.8,i7,1165,none,0,none,0,none,0,168000,8,3200,ddr4,60,fhd,13.3,512,new,0
-,1,lenovo,intel,g7,2.4,i5,1135,none,0,none,0,none,0,138000,16,4267,ddr4x,60,fhd,13.3,256,used,1
-,1,dell,intel,u,2.1,i7,8665,none,0,none,0,none,0,108000,16,2400,ddr4,60,fhd,14,256,used,0
+,0,hp,intel,u,1.9,i5,8365,0,0,none,0,none,0,105000,16,2667,ddr4,60,fhd,15.6,256,new,0
+,0,asus,intel,g7,2.8,i7,1165,0,0,none,0,none,0,168000,8,3200,ddr4,60,fhd,13.3,512,new,0
+,1,lenovo,intel,g7,2.4,i5,1135,0,0,none,0,none,0,138000,16,4267,ddr4x,60,fhd,13.3,256,used,1
+,1,dell,intel,u,2.1,i7,8665,0,0,none,0,none,0,108000,16,2400,ddr4,60,fhd,14,256,used,0
 ,1,asus,intel,h,2.7,i5,11400,nvidia,0,3050,4,geforce rtx,0,228000,16,3200,ddr4x,60,fhd,15.6,512,new,0
 ,1,asus,intel,h,2.3,i7,11800,nvidia,0,3050,4,geforce rtx,0,258000,32,2667,ddr4,144,fhd,17.3,512,used,0
-,1,dell,intel,g7,2.8,i7,1165,none,0,none,0,none,0,235000,16,4267,ddr4x,60,4k,13.3,512,used,1
+,1,dell,intel,g7,2.8,i7,1165,0,0,none,0,none,0,235000,16,4267,ddr4x,60,4k,13.3,512,used,1
 ,1,asus,intel,u,2,i7,8565,nvidia,0,1050,4,geforce gtx,0,158000,8,2400,ddr4,60,fhd,14,256,new,0
-,1,lenovo,intel,g1,1.2,i5,1035,none,0,none,0,none,0,112000,8,3200,ddr4x,60,fhd,14,256,used,0
-,1,acer,intel,g7,1.5,i7,1065,none,0,none,0,none,0,148000,16,2667,ddr4,60,fhd,14,512,used,1
-,1,asus,intel,g7,2.4,i5,1135,none,0,none,0,none,0,148000,8,4267,ddr4x,60,fhd,14,512,used,0
-,1,lenovo,intel,u,2.2,i5,10310,none,0,none,0,none,0,115000,16,2667,ddr4,60,fhd,14,256,used,0
-,1,microsoft,intel,g7,1.5,i5,1035,none,0,none,0,none,0,148000,8,3733,ddr4x,60,3k,13.3,256,used,1
+,1,lenovo,intel,g1,1.2,i5,1035,0,0,none,0,none,0,112000,8,3200,ddr4x,60,fhd,14,256,used,0
+,1,acer,intel,g7,1.5,i7,1065,0,0,none,0,none,0,148000,16,2667,ddr4,60,fhd,14,512,used,1
+,1,asus,intel,g7,2.4,i5,1135,0,0,none,0,none,0,148000,8,4267,ddr4x,60,fhd,14,512,used,0
+,1,lenovo,intel,u,2.2,i5,10310,0,0,none,0,none,0,115000,16,2667,ddr4,60,fhd,14,256,used,0
+,1,microsoft,intel,g7,1.5,i5,1035,0,0,none,0,none,0,148000,8,3733,ddr4x,60,3k,13.3,256,used,1
 ,1,microsoft,intel,g7,1.5,i7,1065,nvidia,0,1660 ti,6,geforce gtx,0,328000,32,3733,ddr4x,60,4k,15,1000,used,1
-,1,dell,intel,g7,2.6,i5,1145,none,0,none,0,none,0,138000,16,3200,ddr4x,60,fhd,15.6,512,used,0
-,1,dell,intel,u,2.3,i7,10610,none,0,none,0,none,0,158000,16,2667,ddr4,60,fhd,15.6,512,used,0
-,1,hp,intel,u,1.8,i5,8250,none,0,none,0,none,0,94000,8,2400,ddr4,60,hd,15.6,256,used,0
-,1,asus,amd,u,2.1,ryzen5,5500,none,0,none,0,none,0,158000,8,3200,ddr4x,60,fhd,14,256,new,1
-,1,hp,intel,n,1.1,celeron,4020,none,0,none,0,none,0,79000,4,2400,ddr4,60,hd,15.6,256,new,0
-,1,lenovo,intel,u,2.7,i5,7300,none,0,none,0,none,0,82000,8,2133,ddr4,60,fhd,14,256,used,1
-,1,apple,intel,g7,2.6,i5,1145,none,0,none,0,none,0,135000,16,4267,ddr4x,60,fhd,13.3,256,used,1
-,0,hp,intel,u,2.2,i5,10310,none,0,none,0,none,0,148000,16,2667,ddr4,60,fhd,14,256,used,1
+,1,dell,intel,g7,2.6,i5,1145,0,0,none,0,none,0,138000,16,3200,ddr4x,60,fhd,15.6,512,used,0
+,1,dell,intel,u,2.3,i7,10610,0,0,none,0,none,0,158000,16,2667,ddr4,60,fhd,15.6,512,used,0
+,1,hp,intel,u,1.8,i5,8250,0,0,none,0,none,0,94000,8,2400,ddr4,60,hd,15.6,256,used,0
+,1,asus,amd,u,2.1,ryzen5,5500,0,0,none,0,none,0,158000,8,3200,ddr4x,60,fhd,14,256,new,1
+,1,hp,intel,n,1.1,celeron,4020,0,0,none,0,none,0,79000,4,2400,ddr4,60,hd,15.6,256,new,0
+,1,lenovo,intel,u,2.7,i5,7300,0,0,none,0,none,0,82000,8,2133,ddr4,60,fhd,14,256,used,1
+,1,apple,intel,g7,2.6,i5,1145,0,0,none,0,none,0,135000,16,4267,ddr4x,60,fhd,13.3,256,used,1
+,0,hp,intel,u,2.2,i5,10310,0,0,none,0,none,0,148000,16,2667,ddr4,60,fhd,14,256,used,1
 ,0,acer,amd,h,3.3,ryzen9,5900,nvidia,0,3080,8,geforce rtx,0,438000,32,3200,ddr4x,144,fhd,15.6,512,used,0
-,1,asus,intel,u,2.9,i7,7500,none,0,none,0,none,0,78000,8,2133,ddr4,60,fhd,14,256,used,0
-,1,dell,intel,g7,2.6,i5,1145,none,0,none,0,none,0,135000,16,4267,ddr4x,60,fhd,13.3,256,used,1
+,1,asus,intel,u,2.9,i7,7500,0,0,none,0,none,0,78000,8,2133,ddr4,60,fhd,14,256,used,0
+,1,dell,intel,g7,2.6,i5,1145,0,0,none,0,none,0,135000,16,4267,ddr4x,60,fhd,13.3,256,used,1
 ,1,hp,intel,h,2.6,i7,9850,nvidia,0,t2000,4,quadro,0,228000,16,2400,ddr4,60,fhd,15.6,256,used,0
-,1,hp,intel,u,2,i7,8565,none,0,none,0,none,0,110000,16,2400,ddr4,60,fhd,14,256,used,0
-,1,lenovo,intel,u,2.2,i5,10310,none,0,none,0,none,0,115000,16,2667,ddr4,60,fhd,14,256,used,0
-,1,lenovo,amd,u,2.1,ryzen5,3500,none,0,none,0,none,0,105000,8,2400,ddr4,60,fhd,14,256,used,0
+,1,hp,intel,u,2,i7,8565,0,0,none,0,none,0,110000,16,2400,ddr4,60,fhd,14,256,used,0
+,1,lenovo,intel,u,2.2,i5,10310,0,0,none,0,none,0,115000,16,2667,ddr4,60,fhd,14,256,used,0
+,1,lenovo,amd,u,2.1,ryzen5,3500,0,0,none,0,none,0,105000,8,2400,ddr4,60,fhd,14,256,used,0
 ,1,asus,intel,h,2.3,i7,11800,nvidia,0,3050,4,geforce rtx,0,258000,32,2667,ddr4,144,fhd,17.3,512,used,0
 ,1,msi,intel,hk,2.9,i7,7820,nvidia,0,1080,8,geforce gtx,0,198000,32,2400,ddr4,60,4k,17.3,512,used,0
-,1,asus,intel,g1,1.2,i5,1035,none,0,none,0,none,0,115000,8,3200,ddr4x,60,fhd,17.3,512,used,0
-,1,lenovo,amd,u,2.1,ryzen5,4650,none,0,none,0,none,0,118000,16,3200,ddr4x,60,fhd,14,512,used,0
-,1,dell,intel,g7,2.6,i5,1145,none,0,none,0,none,0,168000,16,4267,ddr4x,60,fhd,14,256,new,1
-,1,HUAWEI,amd,u,2.3,ryzen7,3700,none,0,none,0,none,0,128000,8,2400,ddr4,60,fhd,14,512,new,0
-,1,fujitsu,intel,g7,2.4,i5,1135,none,0,none,0,none,0,138000,8,3200,ddr4,60,fhd,15.6,256,new,0
-,1,lenovo,intel,g7,2.4,i5,1135,none,0,none,0,none,0,158000,8,4267,ddr4x,60,fhd,14,512,new,0
-,1,acer,amd,u,2.1,ryzen5,3500,none,0,none,0,none,0,98000,8,2400,ddr4,60,fhd,14,256,new,0
-,1,hp,intel,u,1.8,i5,8265,none,0,none,0,none,0,94000,8,2400,ddr4,60,fhd,13.3,256,used,0
-,1,dell,intel,g7,2.4,i5,1135,none,0,none,0,none,0,145000,8,2133,ddr4x,60,fhd,13.3,256,used,0
-,0,lenovo,intel,u,2.1,i5,10210,none,0,none,0,none,0,145000,8,2667,ddr4,60,fhd,14,512,used,1
-,1,lenovo,intel,u,1.9,i5,8365,none,0,none,0,none,0,125000,8,2400,ddr4,60,fhd,14,256,used,1
+,1,asus,intel,g1,1.2,i5,1035,0,0,none,0,none,0,115000,8,3200,ddr4x,60,fhd,17.3,512,used,0
+,1,lenovo,amd,u,2.1,ryzen5,4650,0,0,none,0,none,0,118000,16,3200,ddr4x,60,fhd,14,512,used,0
+,1,dell,intel,g7,2.6,i5,1145,0,0,none,0,none,0,168000,16,4267,ddr4x,60,fhd,14,256,new,1
+,1,huawei,amd,u,2.3,ryzen7,3700,0,0,none,0,none,0,128000,8,2400,ddr4,60,fhd,14,512,new,0
+,1,fujitsu,intel,g7,2.4,i5,1135,0,0,none,0,none,0,138000,8,3200,ddr4,60,fhd,15.6,256,new,0
+,1,lenovo,intel,g7,2.4,i5,1135,0,0,none,0,none,0,158000,8,4267,ddr4x,60,fhd,14,512,new,0
+,1,acer,amd,u,2.1,ryzen5,3500,0,0,none,0,none,0,98000,8,2400,ddr4,60,fhd,14,256,new,0
+,1,hp,intel,u,1.8,i5,8265,0,0,none,0,none,0,94000,8,2400,ddr4,60,fhd,13.3,256,used,0
+,1,dell,intel,g7,2.4,i5,1135,0,0,none,0,none,0,145000,8,2133,ddr4x,60,fhd,13.3,256,used,0
+,0,lenovo,intel,u,2.1,i5,10210,0,0,none,0,none,0,145000,8,2667,ddr4,60,fhd,14,512,used,1
+,1,lenovo,intel,u,1.9,i5,8365,0,0,none,0,none,0,125000,8,2400,ddr4,60,fhd,14,256,used,1
 ,1,microsoft,intel,g7,1.5,i7,1065,nvidia,0,1660 ti,6,geforce gtx,0,328000,32,3733,ddr4x,60,4k,15,1000,used,1
 ,1,lenovo,intel,u,2.5,i5,6300,nvidia,0,m500m,2,quadro,500,94000,8,1600,ddr3l,60,fhd,15.6,0,used,0
-,1,hp,intel,g1,1.2,i5,1035,none,0,none,0,none,1000,118000,8,2667,ddr4,60,hd,17.3,128,used,0
-,0,dell,intel,u,2.1,i7,8665,none,0,none,0,none,0,158000,16,2400,ddr4,60,fhd,15.6,512,used,0
-,1,asus,amd,p,2.5,a10,9620,none,0,none,0,none,0,65000,8,1867,ddr3l,60,fhd,15.6,512,used,0
-,1,fujitsu,intel,u,1.9,i5,8350,none,0,none,0,none,0,92000,8,2400,ddr4,60,fhd,15.6,256,used,0
-,1,lenovo,intel,u,1.8,i5,8250,none,0,none,0,none,0,92000,8,2400,ddr4,60,fhd,14,256,used,0
-,1,dell,intel,u,2.3,i7,10610,none,0,none,0,none,0,158000,16,2667,ddr4,60,fhd,15.6,512,used,0
+,1,hp,intel,g1,1.2,i5,1035,0,0,none,0,none,1000,118000,8,2667,ddr4,60,hd,17.3,128,used,0
+,0,dell,intel,u,2.1,i7,8665,0,0,none,0,none,0,158000,16,2400,ddr4,60,fhd,15.6,512,used,0
+,1,asus,amd,p,2.5,a10,9620,0,0,none,0,none,0,65000,8,1867,ddr3l,60,fhd,15.6,512,used,0
+,1,fujitsu,intel,u,1.9,i5,8350,0,0,none,0,none,0,92000,8,2400,ddr4,60,fhd,15.6,256,used,0
+,1,lenovo,intel,u,1.8,i5,8250,0,0,none,0,none,0,92000,8,2400,ddr4,60,fhd,14,256,used,0
+,1,dell,intel,u,2.3,i7,10610,0,0,none,0,none,0,158000,16,2667,ddr4,60,fhd,15.6,512,used,0
 ,1,lenovo,intel,u,2.7,i5,7300,nvidia,0,m520,2,quadro,500,96000,8,2133,ddr4,60,fhd,15.6,0,used,0
-,1,hp,intel,u,2.6,i3,10110,none,0,none,0,none,0,105000,8,2667,ddr4,60,hd,14,256,new,0
+,1,hp,intel,u,2.6,i3,10110,0,0,none,0,none,0,105000,8,2667,ddr4,60,hd,14,256,new,0
 ,1,lenovo,amd,hx,3.3,ryzen9,5900,nvidia,0,3080,16,geforce rtx,0,565000,16,3200,ddr4,165,qhd,16,1024,new,0
 ,0,lenovo,amd,hx,0,ryzen9,5900,nvidia,0,3060,6,geforce rtx,0,325000,32,3200,ddr4,165,fhd,15.6,2000,new,0
 ,1,asus,intel,g7,2.8,i7,1165,nvidia,0,330,2,geforce mx,0,269900,16,0,ddr4,60,fhd,15,512,new,0
 ,0,asus,amd,hx,3.3,ryzen,5900,nvidia,0,3080,8,geforce rtx,0,445000,16,3200,ddr4,300,fhd,15.6,1024,used,0
-,1,dell,intel,g4,3,i3,1115,none,0,none,0,none,1000,109900,8,2666,ddr4,60,fhd,15,256,new,0
+,1,dell,intel,g4,3,i3,1115,0,0,none,0,none,1000,109900,8,2666,ddr4,60,fhd,15,256,new,0
 ,1,hp,intel,h,3,i5,11400,nvidia,0,3050,4,geforce rtx,0,209900,8,2933,ddr4,60,fhd,16,256,new,0
